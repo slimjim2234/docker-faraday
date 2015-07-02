@@ -1,2 +1,2 @@
-# docker-faraday
+# Docker-Faraday
 Run faraday in docker
